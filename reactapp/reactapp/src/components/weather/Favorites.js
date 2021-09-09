@@ -21,7 +21,7 @@ import store from '../weather/store';
 import { cityadd, favoritecity } from '../weather/actions';
 
 export default function Favorites() {
-    const APIKEY = "PsrXOHf2tohNLpKUAKa8fvVxDBwpM5bz";
+    const APIKEY = "dyLmdjfyIQ6T7aWsSLPm63T9Z3CKKAzG";
     const [cities, setCities] = useState([])
     const [details, setDetails] = useState([]);
     const [reducre, setReducre] = useState(store.getState().arr);
