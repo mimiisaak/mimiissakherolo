@@ -35,7 +35,7 @@ export default function Favorites() {
         setCities(cities => [...cities, (cityId, details.map(i => i.Temperature.Metric.Value))])
     }
     function temperatora2(cityId) {
-        console.log(axios.get("http://dataservice.accuweather.com/currentconditions/v1/210841?apikey=DgrqDkN3UnwGDADZfmGjjOATui3tFMjK&language=en&details=false")
+        console.log(axios.get("https://dataservice.accuweather.com/currentconditions/v1/210841?apikey=DgrqDkN3UnwGDADZfmGjjOATui3tFMjK&language=en&details=false")
             .then(res => res.data)
         );    
     }
@@ -51,7 +51,7 @@ export default function Favorites() {
     function temperatora(locationKey) {
         let arr = []
         console.log(locationKey)
-        return axios.get('http://dataservice.accuweather.com/currentconditions/v1/' + locationKey + '?apikey=DgrqDkN3UnwGDADZfmGjjOATui3tFMjK&language=en&details=false')
+        return axios.get('https://dataservice.accuweather.com/currentconditions/v1/' + locationKey + '?apikey=DgrqDkN3UnwGDADZfmGjjOATui3tFMjK&language=en&details=false')
             .then(res => res.data);
 
     }
