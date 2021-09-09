@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mimiissakherolo/static/css/main.69ca3c72.chunk.css",
+    "main.js": "/mimiissakherolo/static/js/main.a7ebb5de.chunk.js",
+    "main.js.map": "/mimiissakherolo/static/js/main.a7ebb5de.chunk.js.map",
+    "runtime-main.js": "/mimiissakherolo/static/js/runtime-main.6617cbb4.js",
+    "runtime-main.js.map": "/mimiissakherolo/static/js/runtime-main.6617cbb4.js.map",
+    "static/css/2.b0bc1e73.chunk.css": "/mimiissakherolo/static/css/2.b0bc1e73.chunk.css",
+    "static/js/2.928bde3a.chunk.js": "/mimiissakherolo/static/js/2.928bde3a.chunk.js",
+    "static/js/2.928bde3a.chunk.js.map": "/mimiissakherolo/static/js/2.928bde3a.chunk.js.map",
+    "static/js/3.9e402db3.chunk.js": "/mimiissakherolo/static/js/3.9e402db3.chunk.js",
+    "static/js/3.9e402db3.chunk.js.map": "/mimiissakherolo/static/js/3.9e402db3.chunk.js.map",
+    "index.html": "/mimiissakherolo/index.html",
+    "static/css/2.b0bc1e73.chunk.css.map": "/mimiissakherolo/static/css/2.b0bc1e73.chunk.css.map",
+    "static/css/main.69ca3c72.chunk.css.map": "/mimiissakherolo/static/css/main.69ca3c72.chunk.css.map",
+    "static/js/2.928bde3a.chunk.js.LICENSE.txt": "/mimiissakherolo/static/js/2.928bde3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6617cbb4.js",
+    "static/css/2.b0bc1e73.chunk.css",
+    "static/js/2.928bde3a.chunk.js",
+    "static/css/main.69ca3c72.chunk.css",
+    "static/js/main.a7ebb5de.chunk.js"
+  ]
+}
