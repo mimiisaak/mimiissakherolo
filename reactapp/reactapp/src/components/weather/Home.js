@@ -21,7 +21,7 @@ import store from '../weather/store';
 import { cityadd, removecity } from '../weather/actions';
 
 export default function Home() {
-    const APIKEY = "PsrXOHf2tohNLpKUAKa8fvVxDBwpM5bz";
+    const APIKEY = "dyLmdjfyIQ6T7aWsSLPm63T9Z3CKKAzG";
     const [locationKey, setLocationKey] = useState(210841);
     const [location, setLocation] = useState({});
     const [letter, setLetter] = useState("tel aviv");
